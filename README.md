@@ -23,7 +23,7 @@ I hopefully get to fill out most of these in a year.
 
 | Chapter                                       | Study        | Labs         | Exercises    |
 |-----------------------------------------------|--------------|--------------|--------------|
-| 2 - Statistical Learning                      | Ongoing!     | Coming Soon! | Coming Soon! |
+| 2 - Statistical Learning                      | [Ongoing!](https://dsbrillantes.github.io/ISL-R-Notebooks/Chapter%202%20-%20Statistical%20Learning.nb.html)     | Coming Soon! | Coming Soon! |
 | 3 - Linear Regression                         | Coming Soon! | Coming Soon! | Coming Soon! |
 | 4 - Classification                            | Coming Soon! | Coming Soon! | Coming Soon! |
 | 5 - Resampling Methods                        | Coming Soon! | Coming Soon! | Coming Soon! |
